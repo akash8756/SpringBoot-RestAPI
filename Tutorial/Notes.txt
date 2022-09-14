@@ -1,0 +1,38 @@
+@Springbootapplication  -	To state that this application is springbootapplication.
+
+Bean -      		        It encapsulate many object into one object so we can access this object from multiple places.
+	
+@Required - 			It say that annotated bean must be populated.
+	    		        for ex -
+	    			@Required	
+	    			public void method()
+
+@Autowired - 			It is used to autowire classes for Getter, setter method, instantnce variable.
+
+@ComponentScan  - 		It is used to scan multiple packages thorughout project.
+
+Bean -      			It encapsulate many object into one object so we can access this object from multiple places.
+
+@Component - 			It is used to mark a java class as a bean.
+
+@Controller - 			It makes a class a web request handler.
+	    - 			It is mostly use with the @RequestMapping.
+
+				for example -
+				@controller @RequestMapping('books')
+				class
+				@RequestMapping(Value="URL")
+
+@Service -			It tells that this class contain business logic.
+
+@Repository - 			Repo is a DAO - Data acces object which have direct access to the databases, it contain inbuild methods. 	
+
+@RequestMapping -		Is is use to map the web request, it has many optional element like path, consume, produce, name, param etc.
+
+	@GetMapping - It is use to create web service endpoint that FETCHES.
+	@PostMapping - -"- CREATES
+	@PutMapping - -"- CREATES or UPDATES.
+	@DeleteMapping - DELETE source.
+	@PathMapping - 
+
+
