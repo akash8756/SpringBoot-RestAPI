@@ -13,7 +13,10 @@ Bean -      		        It encapsulate many object into one object so we can acces
 
 Bean -      			It encapsulate many object into one object so we can access this object from multiple places.
 
-@Component - 			It is used to mark a java class as a bean.
+@Component - 			If we mark class as a @component then spring will treat it as bean class,
+				Spring will call this class when we build or run the main spring application class.
+                                It is used to mark a java class as a bean class.
+							
 
 @Controller - 			It makes a class a web request handler.
 	    - 			It is mostly use with the @RequestMapping.
@@ -35,4 +38,12 @@ Bean -      			It encapsulate many object into one object so we can access this 
 	@DeleteMapping - DELETE source.
 	@PathMapping - 
 
+@RequestBody -			When we call with @RequestBody then spring framework binds the incoming HTTP request body to that parameter.
 
+@PathVariable -			It is use to extract the values from the URL.
+
+@RequestParam -			It is use to extract the query parameter from URL.
+
+@RestController -		It is the combination of @Controller & @RestController.	
+
+@SpringBoot Dependancy Injection -	
