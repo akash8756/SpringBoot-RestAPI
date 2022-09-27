@@ -23,7 +23,11 @@ public class PersonEntity {
     @Column(name = "last_name")
     private String lastName;
 
+<<<<<<< HEAD
     @OneToOne(cascade = CascadeType.ALL, fetch=FetchType.LAZY)
+=======
+    @OneToOne(cascade = CascadeType.ALL)
+>>>>>>> github/master
     @JoinColumn(name = "address_id")
     private AddressEntity address;
 }
