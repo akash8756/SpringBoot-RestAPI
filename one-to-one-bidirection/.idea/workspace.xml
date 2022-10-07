@@ -2,38 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a72f4984-011c-45f7-a937-7aafb4715933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/src/main/java/com/example/onetoonebidirection/OneToOneBidirectionApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-to-one-bidirection/src/test/java/com/example/onetoonebidirection/OneToOneBidirectionApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/OneToOneMappingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/controller/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/entity/AddressEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/entity/PersonEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/mapper/PersonAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/repository/PersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/response/PersonResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/java/com/example/oneToOneMapping/service/PersonAddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oneToOneMapping/src/test/java/com/example/oneToOneMapping/OneToOneMappingApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/entity/CartEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/entity/ItemEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/mapper/CartMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/model/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/response/CartResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/java/com/example/cartanditem/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartanditem/cartanditem/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-job-scheduler/spring-boot-job-scheduler/src/main/java/com/jobscheduler/springbootjobscheduler/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-job-scheduler/spring-boot-job-scheduler/src/main/java/com/jobscheduler/springbootjobscheduler/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-job-scheduler/spring-boot-job-scheduler/src/main/java/com/jobscheduler/springbootjobscheduler/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-job-scheduler/spring-boot-job-scheduler/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RestTemplate" beforeDir="false" afterPath="$PROJECT_DIR$/../RestTemplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newdemo/newdemo" beforeDir="false" afterPath="$PROJECT_DIR$/../newdemo/newdemo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oneToOneMapping/oneToOneMapping/src/main/java/com/example/oneToOneMapping/entity/PersonEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oneToOneMapping/oneToOneMapping/src/main/java/com/example/oneToOneMapping/entity/PersonEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oneToOneMapping/oneToOneMapping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../oneToOneMapping/oneToOneMapping/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-jpa" afterDir="false" />
     </list>
@@ -51,12 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="one-to-one-bidirection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="one-to-one-bidirection" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
